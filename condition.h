@@ -6,6 +6,9 @@
 #include"mutex.h"
 class Mutex;
 
+/*
+ *
+ */
 class Condition {
  public:
   Condition(){}
